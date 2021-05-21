@@ -1,6 +1,7 @@
 # vuestacks-calendar-vue-firebase
 
-
+![alt text](https://github.com/Rushin07/EventScheduler/blob/master/Calendar_Vue-master/src/assets/Eventschuderimages_1.png?raw=true)
+![alt text](https://github.com/Rushin07/EventScheduler/blob/master/Calendar_Vue-master/src/assets/Eventschuderimages_2.png?raw=true)
 
 ## Project setup
 ```
